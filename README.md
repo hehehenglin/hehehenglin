@@ -1,7 +1,7 @@
 # 嗨，我是 Ivy 👋
 
 我是林鈺恆（Yu Heng Lin），從平面設計轉職前端的新手。
-目前在五倍學院的前端培訓班學習（2026/09 – 2027/01），正在尋找**初階前端工程師**的機會。
+目前在五倍學院的前端培訓班學習（2026/09 – 2027/01）
 
 ## 關於我
 
@@ -10,10 +10,6 @@
 
 ## 技術
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 - HTML：語意化標籤、表單、表格（colspan / rowspan）
 - CSS：依設計稿切版、RWD 響應式排版
